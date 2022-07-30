@@ -1,0 +1,4 @@
+/mnt/d/c_packages/basic_math_func/native_codes/CMakeFiles/rebuild_cache.dir
+/mnt/d/c_packages/basic_math_func/native_codes/CMakeFiles/edit_cache.dir
+/mnt/d/c_packages/basic_math_func/native_codes/CMakeFiles/native_test.dir
+/mnt/d/c_packages/basic_math_func/native_codes/CMakeFiles/native_codes.dir

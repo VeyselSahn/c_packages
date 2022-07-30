@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libnative.so.1 -o libnative.so.1.0.0 CMakeFiles/native_codes.dir/native.c.o  -lm 

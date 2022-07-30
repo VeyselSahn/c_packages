@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/c_packages/basic_math_func/native_codes/native.c
+stdio.h
+-
+string.h
+-
+native.h
+/mnt/d/c_packages/basic_math_func/native_codes/native.h
+
+/mnt/d/c_packages/basic_math_func/native_codes/native.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/native_test.dir/native.c.o  -o native_test  -lm 
